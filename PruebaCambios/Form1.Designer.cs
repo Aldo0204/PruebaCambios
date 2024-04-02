@@ -70,9 +70,9 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(198, 327);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(102, 16);
+            this.label3.Size = new System.Drawing.Size(110, 16);
             this.label3.TabIndex = 3;
-            this.label3.Text = "ArturoCagaduro";
+            this.label3.Text = "ArturoCagaduroo";
             this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // Form1
