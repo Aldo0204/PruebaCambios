@@ -9,5 +9,7 @@ namespace PruebaCambios
     internal class Class1
     {
         //hola mi guapo aldo FELIZ CUMPLEAÑOS
+
+        //FORMA DE ALDO
     }
 }
