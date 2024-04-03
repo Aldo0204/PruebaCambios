@@ -8,6 +8,6 @@ namespace PruebaCambios
 {
     internal class Class1
     {
-        //hola mi guapo aldo FELIZ CUMPLEANOS
+        //hola mi guapo aldo FELIZ CUMPLEAÑOS
     }
 }
