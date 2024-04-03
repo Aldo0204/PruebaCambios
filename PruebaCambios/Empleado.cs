@@ -12,6 +12,8 @@ namespace PruebaCambios
 
         //que onda
 
+        //Que onda yo lo edite desdee chrome pero sin estar en el visual
+
         //Que pasó Master
     }
 }
